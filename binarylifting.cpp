@@ -87,5 +87,5 @@ int main()
     adj[7] = {12, 13};
 
     binaryLifting obj(n, adj);
-    cout << "LCA of 9 and 8: " << obj.lca(9, 8) << endl; // Output should be 3
+    cout << "LCA of 9 and 8: " << obj.lca(9, 8) << endl; 
 }
